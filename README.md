@@ -28,4 +28,4 @@ Due to dependencies we recommend using conda. We provided a list of packages in 
 A tutorial for reading data, processing and creating a simple correlation based climate network can be found at this ![tutorial][tutorialLink].
 
 
-[tutorialLink]: ./tutorials/create_network.ipynb
+[tutorialLink]: ./climnet/tutorials/create_network.ipynb
