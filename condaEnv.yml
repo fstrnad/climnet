@@ -1,0 +1,34 @@
+name: climnet
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - graph-tool
+  - jupyter
+  - netcdf4
+  - python[version='>=3.8']
+  - pandas
+  - ipython
+  - xarray
+  - numpy=1.20.2
+  - networkit
+  - pot
+  - xlrd
+  - tqdm
+  - multiprocess
+  - mypy
+  - python-louvain
+  - networkx
+  - pip
+  - scipy
+  - joblib
+  - cartopy=0.20.2
+  - matplotlib=3.3.4
+  - ipywidgets
+  - numba
+  - seaborn
+  - scikit-learn
+  - windspharm
+  - tabulate
+  - dask
+  - nc-time-axis
